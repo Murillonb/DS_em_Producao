@@ -30,7 +30,7 @@ Premissas adotadas para execução deste projeto:
 
 Entrega das previsões de vendas das lojas através do celular (Telegram).<br>
 
-<a href="https://youtu.be/GJuR8vbGthY?feature=share4"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://youtu.be/GJuR8vbGthY?feature=share4" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 ## 4.2. Ferramentas
 
@@ -239,7 +239,8 @@ Com isso o objetivo foi alcançado, permitindo indicar o melhor e o pior cenári
 time de negócios tome as melhores decisões sobre as reformas a serem realizadas.<br>
 
 Também foi disponibilizado o acesso às previsões de vendas das lojas através do Telegram, conforme mostrado no vídeo:<br>
-<a href="https://youtu.be/GJuR8vbGthY?feature=share4"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+
+<a href="https://youtu.be/GJuR8vbGthY?feature=share4" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 # 10.0. Próximos passos
 
