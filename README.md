@@ -212,7 +212,9 @@ Obtendo assim uma melhor performance do modelo.
 
 # 8.0. Resultados para o negócio
 
-Os resultados preditos das vendas com 06 semanas de antecedência foram:
+Com os valores de MAE e MAPE de cada loja, foi possível calcular o melhor e o pior cenário para cada estabelecimento, assim como verificar se a performance do modelo
+foi boa para cada loja, separadamente.<br>
+Com base nos valores da MAE, encontramos os resultados preditos das vendas de todas as lojas, com 06 semanas de antecedência, sendo o melhor e o pior cenário total:
 <table>
   <tr>
     <th>Cenários</th>
