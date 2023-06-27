@@ -194,7 +194,7 @@ Hiperparâmetros utilizados:
   </tr>  
 </table>
 
-Obtendo assim uma melhor performance do modelo.
+Obtendo assim uma melhor performance de generalização do modelo.
 <table>
   <tr>
     <th>Modelo</th>
@@ -236,7 +236,7 @@ Com base nos valores da MAE, encontramos os resultados preditos das vendas de to
 
 # 9.0. Conclusão
 	
-O algoritmo XGBoost, após realizado os ajustes finos dos hiperparâmetros, apresentou um bom resultado.<br>
+O algoritmo XGBoost não apresentou uma boa performance de aprendizagem no início, porém, após realizado os ajustes finos dos hiperparâmetros, conseguiu uma boa generalização na predição final.<br>
 Com isso o objetivo foi alcançado, permitindo indicar o melhor e o pior cenário para cada loja. Possibilitando assim que o 
 time de negócios tome as melhores decisões sobre as reformas a serem realizadas.<br>
 
