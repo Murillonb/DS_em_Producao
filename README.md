@@ -40,16 +40,16 @@ Entrega das previsões de vendas das lojas através do celular (Telegram).<br>
 
 ## 4.3. Processo de Solução
 
-Passo 01: Descrição dos Dados;<br>
-Passo 02: Feature Engineering;<br>
-Passo 03: Filtragem das variáveis;<br>
-Passo 04: Análise Exploratória dos Dados (EDA);<br>
-Passo 05: Preparação dos Dados;<br>
-Passo 06: Seleção de Features (Boruta);<br>
-Passo 07: Modelagem do Machine Learning;<br>
-Passo 08: Ajuste Fino dos Hiperparâmetros;<br>
-Passo 09: Tradução e Interpretação dos Erros;<br>
-Passo 10: Subir Modelo para Produção.
+Passo 01 - Descrição dos Dados: ganho de conhecimento sobre os dados que serão utilizados;<br>
+Passo 02 - Feature Engineering: criação de novas features;<br>
+Passo 03 - Filtragem das variáveis: remoção de linhas e colunas que não contribuem com o fenômeno estudado;<br>
+Passo 04 - Análise Exploratória dos Dados (EDA): criação de hipóteses e análise da correlação entre as variáveis;<br>
+Passo 05 - Preparação dos Dados: enconde, transformação e redimensionamento dos dados para melhor performance do modelo de machine learning;<br>
+Passo 06 - Seleção de Features (Boruta): filtro das variáveis com maior correlação com o fenômeno estudado;<br>
+Passo 07 - Modelagem do Machine Learning: teste de diferentes modelos de machine learning;<br>
+Passo 08 - Ajuste Fino dos Hiperparâmetros: ajuste dos hiperparâmetros do melhor modelo de machine learning;<br>
+Passo 09 - Tradução e Interpretação dos Erros: transformação dos dados encontrados em conhecimento de negócio;<br>
+Passo 10 - Subir Modelo para Produção: disponibilização do modelo para uso das pessoas responsáveis por tomar as decisões de negócio.
 	
 # 5.0. Top Insights
 
